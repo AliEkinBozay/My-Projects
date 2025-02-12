@@ -1,1 +1,2 @@
 
+This is an Android application developed in Kotlin by a team of three. It is a hotel reservation app that allows users to browse available hotels, check room details, and make reservations seamlessly. The application utilizes JSON for data storage and retrieval, ensuring efficient and structured management of hotel information, bookings, and user details. Our goal was to create a user-friendly and responsive app that simplifies the hotel reservation process while maintaining data integrity and smooth functionality.
