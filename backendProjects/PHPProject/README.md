@@ -1,2 +1,0 @@
-
-This is a PHP project that I developed alongside three teammates. The project involves creating a comprehensive and well-structured database designed for market owners and customers. It enables efficient management of products, orders, and user interactions, providing a seamless experience for both parties. Our goal was to develop a reliable and scalable system that could handle various market-related operations with ease.
