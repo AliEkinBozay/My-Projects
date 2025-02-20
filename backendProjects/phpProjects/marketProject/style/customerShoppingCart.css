@@ -1,0 +1,22 @@
+body{margin: 0; padding: 0;}
+.head{position: fixed; margin: 0; padding: 20px; width: 100%; box-shadow: 0 0 3px rgba(58, 58, 125); list-style-type: none; display: flex; flex-direction: row; justify-content: space-between;}
+.ad, .shopCart {padding: 20px;}
+.ad{font-size: 20px; color: white; border: 1px solid rgb(58, 58, 125); background-color: rgba(58, 58, 125); border-radius: 5px;}
+.shopCart{font-size: 20px; color: rgb(58, 58, 125); font-weight: bold;}
+.continue{text-align: center; padding-right: 20px;}
+.cnt{padding: 20px; border: 1px solid white; background-color: white; color: rgba(58, 58, 125); cursor: pointer;}
+.cnt:hover{background-color: rgba(58, 58, 125); border-radius: 5px; border: 1px solid rgba(58, 58, 125); color: white;}
+
+.cartList{width: 80%; margin: 0 auto; padding-top: 150px;}
+.cartTable{margin: 30px auto; width: 100%; }
+.cartTable tr{width: 100%;}
+.headTable{font-size: 20px; font-weight: bold;}
+.headTable, .detail td{text-align: center; padding: 0px; color: rgb(58, 58, 125);}
+.cartTable tr td img{max-width: 30%; height: auto;}
+.detail td{border-bottom: 1px solid rgb(58, 58, 125); border-collapse:collapse; }
+.trash{border: 1px solid #555; background-color: #555; color: white; padding: 10px; border-radius: 10px;} 
+.trash:hover{border: 1px solid rgb(58, 58, 125); background-color: rgb(58, 58, 125); border-radius: 5px;}
+.total{padding-top: 50px; text-align: center; font-size: 20px; color: rgb(58, 58, 125); font-weight: bold;}
+.pur{text-align: center;}
+.purchase{border: 1px solid #555; background-color: #555; color: white; padding: 10px; border-radius: 10px; margin-top: 50px;}
+.purchase:hover{border: 1px solid rgb(58, 58, 125); background-color: rgb(58, 58, 125); border-radius: 5px;}

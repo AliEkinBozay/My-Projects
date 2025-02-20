@@ -1,0 +1,13 @@
+body{margin: 0;}
+.menu{margin: 0 auto; box-shadow: 0 0 3px rgb(58, 58, 125); padding: 10px;}
+.menu ul{list-style-type: none; display: flex; flex-direction: row; justify-content: space-between;}
+.menu ul li{padding: 10px;}
+.ad{font-size: 20px; color: white; border: 1px solid rgb(58, 58, 125); border-radius: 5px; background-color: rgb(58, 58, 125);}
+.acnt{font-size: 20px; font-weight: bold; color: rgb(58, 58, 125);}
+.continue{color: rgb(58, 58, 125); border: 1px solid white; background-color: white; padding: 10px;}
+.continue:hover{color: white; border: 1px solid rgb(58, 58, 125); border-radius: 5px; background-color: rgb(58, 58, 125); cursor: pointer;}
+.detail table{margin: 0 auto; margin-top: 40px; width: 400px; height: 500px;}
+.detail table tr td{text-align: center; padding: 10px; color: rgb(58, 58, 125); border-bottom: 1px solid rgb(58, 58, 125); border-collapse:collapse;}
+.detail table tr td input{width:400px}
+.update{padding: 10px; width: 300px; border: 1px solid rgb(58, 58, 125); border-radius: 5px; background-color: #555; color: #fff;}
+.update:hover{background-color: rgb(58, 58, 125); color: white; cursor: pointer; }

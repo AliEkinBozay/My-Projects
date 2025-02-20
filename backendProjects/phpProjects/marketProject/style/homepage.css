@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+.welcome{
+    background-image: url(../images/back.jpg);
+    opacity: 0.5;
+    height: 850px;
+    position: relative;
+}
+.welcomehead {
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 100px;
+    opacity: 1;
+    color: black;
+    width: max-content;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 0px;
+    height:max-content;
+    padding:  30px 150px 30px 30px;
+}
+.welcomehead p{
+    font-size: 30px;
+    font-weight:normal;
+    text-align: right ;
+}
+
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    align-content: center;
+}
+
+.menu ul li {
+    font-size: 60px;
+    align-items: center;
+    text-align: center;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.menu ul li a:hover {
+    transform: translateX(20px);
+}
+.footer {
+    background-color:black;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container-f{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.social-icons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 30px;
+
+}
+
+.social-icons li:last-child,
+.additional-links li:last-child {
+    margin-right: 0;
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 24px;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #ff0000;
+    transform: translateX(5px);
+}
