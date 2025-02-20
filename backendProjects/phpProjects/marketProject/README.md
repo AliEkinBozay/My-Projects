@@ -1,0 +1,1 @@
+This PHP-based project was developed as a team of three and includes customer and market pages. The system features email verification and authentication for secure access. The frontend is built using HTML, CSS, and JavaScript, while the backend is powered by PHP. Additionally, it integrates a database to manage user and market data efficiently.
